@@ -1,0 +1,108 @@
+body {
+  background: url(..//images/henry-co-tqu0IOMaiU8-unsplash.jpg);
+  background-repeat: no-repeat;
+  margin: 0;
+}
+header {
+  background-color: #00A880;
+  padding: 15px;
+}
+header ul {
+  float: right;
+  color: white;
+}
+header li {
+  display: inline-block;
+  padding: 0px 5px;
+}
+header p {
+  display: inline-block;
+}
+.heroImg {
+  /* background-color: #EBEBEB; */
+  /* background: url(..//images/henry-co-tqu0IOMaiU8-unsplash.jpg);   */
+  /* background-repeat: no-repeat; */
+  padding: 20px 15px;
+}
+.content {
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 35px;
+  background-color: #FFFFFF;
+  text-align: center;
+}
+.content img {
+    width: 100%;
+    margin-bottom: 2%;
+}
+.content p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+.content h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+button {
+  padding: 15px;
+  background-color: #d4af37;
+  color: black;
+  font-size: 15px;
+  border-radius: 4px;
+}
+footer {
+  background-color: #00A880;
+  padding: 5px;
+  color: white;
+}
+footer ul {
+  list-style: none;
+  padding-left: 5px;
+}
+footer li {
+  display: inline-block;
+  padding: 0px 7px;
+}
+ul li {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.mySkills h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 50px;
+}
+.myWork h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 50px;
+}
+
+.flexContainer {
+  display: flex;
+}
+.flexItem {
+  flex-direction: row;
+  width: 33%;
+  align-items: center;
+  justify-content:center;
+  margin-top: 20px;
+  padding-left: 50px;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.flexItem p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+@media only screen and (max-width: 900){
+/* adjusted css here */
+
+}
